@@ -1,0 +1,141 @@
+body
+{
+	background-color: white;
+}
+
+
+
+
+.Entete{
+	position: absolute;
+	top: 0; left: 0; right: 0; bottom: 10px;
+	height: 70px; line-height: 70px;
+	background-color: #FFF;
+	text-align: center;
+	border-bottom: 2px solid yellow;
+}
+
+h2{
+	text-align: center;
+}
+
+h3{
+	position: absolute;
+	top: 65px;
+	color:black;
+	font-family: Georgia;
+
+}
+
+.image{
+
+	position: absolute;
+	top : -45px;
+	width : 175px;
+	height: 175px;
+	margin: auto;
+	left : 0px; right: 0px;
+
+
+}
+
+.nav
+{
+	position: absolute ;
+	bottom: 0;left: 0; right: 0;
+	background-color: #FFF;
+	text-align: center;
+	overflow: hidden;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 0px;
+	margin-top: 0px;
+	
+}
+
+
+#icone1{
+	position: absolute;
+	left: 58px;
+	top:5px;
+}
+
+#icone2{
+	position: absolute;
+	right: 55px;
+	top:5px;
+}
+
+.police{
+
+	color: grey;
+	font-family: Georgia;
+	margin-bottom: -15px;
+	margin-top: 20px;
+}
+
+.police1{
+	color: black;
+	font-family: Georgia;
+	position: relative;
+	top: 40px;
+	margin-left: 95px;
+  		
+}
+
+.police2{
+
+	color: grey;
+	text-decoration: none;
+	text-align: right;
+}
+
+.policeA{
+	color: #FFD700;
+	font-weight: bold;
+	font-family: Georgia;
+	position: relative;
+	top: 40px;
+	margin-left: 95px;
+}
+
+.policeU{
+
+	color: grey;
+	font-size: 13px;
+	text-decoration: none;
+	font-family: Georgia;
+	position: relative;
+	top: 10px;
+	margin-left: 200px;
+}
+
+img.logo
+{
+
+	margin-bottom: -15px;
+	clear: both;
+
+}
+
+.nav li {
+	
+	display: table-cell;
+	width: 500px;
+
+} 
+
+
+.nav a
+{
+	text-decoration: none;
+	display:block;
+	text-align: center;
+	height: 60px; line-height: 60px;
+
+}
+
+a{
+	text-decoration: none;
+}
+
